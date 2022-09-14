@@ -1,1 +1,1 @@
-LeetCode Solutions.
+Data Structure and Alogritham related problem Solution.
